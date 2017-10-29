@@ -4,8 +4,8 @@ This jupyter notebook consists of a neural network that detects MNIST dataset.
 
 ## Tech
 * [Jupyter notebook](http://jupyter.org/) - an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.
-* [TensorFlow] - A neural network open source library.
-* [TFLearn] - A easy to use framework that is put over the tensorflow library
+* [TensorFlow](https://www.tensorflow.org/) - A neural network open source library.
+* [TFLearn](http://tflearn.org/) - A easy to use framework that is put over the tensorflow library
 
 ## Get it started
 
