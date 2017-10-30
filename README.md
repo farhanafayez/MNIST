@@ -17,9 +17,9 @@ This jupyter notebook consists of a neural network that detects MNIST dataset.
 The MNIST dataset is called. TF learn is used to build a simple neural network.
 > Training the model
 
-´´´sh
+`sh
 model.fit(trainX, trainY, validation_set=0.1, show_metric=True, batch_size=100, n_epoch=8)
-´´´
+`
 TrainX is the Labels.
 TrainY is the Features.
 Validation_set means that how much of the Training set is used to validate the model.
